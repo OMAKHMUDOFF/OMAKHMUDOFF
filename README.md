@@ -5,6 +5,7 @@
 
 Hi, I'm Otabek Makhmudov, I'm 19 years old. I work in the field of Front-end development.
 
+![Screenshot](https://github.com/OMAKHMUDOFF/OMAKHMUDOFF/blob/main/Banner.png)
 
 ### Languages
 
