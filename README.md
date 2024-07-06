@@ -44,6 +44,6 @@ Hi, I'm Otabek Makhmudov, I'm 19 years old. I work in the field of Front-end dev
 
 ### Links
 
-- Linkedin: [omaxmudovv](www.linkedin.com/in/omaxmudovv)
+- Linkedin: [omaxmudovv](https://www.linkedin.com/in/omaxmudovv)
 - Telegram: [omaxmudovv](https://t.me/omaxmudovv)
 - Email: omaxmudovv@gmail.com
