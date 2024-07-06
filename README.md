@@ -41,7 +41,6 @@ Hi, I'm Otabek Makhmudov, I'm 19 years old. I work in the field of Front-end dev
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMAKHMUDOFF&show_icons=true&theme=algolia)
 
 <br/>
-const = 1
 
 ### Links
 
